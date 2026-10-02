@@ -1,0 +1,3 @@
+This is an working directory to stageing area is add .  
+stagening area to local directory = commit command
+local directory to remote directories = push command
